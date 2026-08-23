@@ -1,6 +1,5 @@
-|S.NO   |      Raw Material          | Quantity
-
-|1.     |       Refined Oil          |  25Kg
+S.NO   |      Raw Material          | Quantity
+1.     |       Refined Oil          |  25Kg
 2.     |       Desi Ghee            |  5 kg
 3.     |       Rice                 |   
 4.     |       Atta                 |  50 kg
@@ -10,4 +9,4 @@
 8.     |       Salt                 |  10 Kg
 9.     |     Kitchen King           |   5 Packet
 10.    |     Deggi Mirch            |   5 Packet
-11.    |       Hing                 |   -
+11.    |       Hing                 |   
