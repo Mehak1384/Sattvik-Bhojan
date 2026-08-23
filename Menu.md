@@ -9,5 +9,10 @@
 ##__Lunch and Dinner:__
 1. Rajma/Chole/Kadhi+ Chalwal
 2. Stand thali( Rajma/Chole/Kadhi/Dal+Sabji+4 roti+rice)
+---------------------------------------------------------------------------
+Extra Items:
+-> Packet curd 
+-> Lassi 
+-> Dudh 
 
 Note: Menu Can be change after the team discussion.
