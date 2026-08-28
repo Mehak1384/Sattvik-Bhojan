@@ -27,23 +27,23 @@ __Document requirement:__
     8. FSSAI Registration/Licence
     9. Property tax receipt, if applicable
 
-###_For Sattvik Bhojan:_
+_For Sattvik Bhojan:_
 
     - Business Type: Home-based Cloud Kitchen
     - Premises: Own House
     - Rent Agreement: Not required
     - Landlord NOC: Not required
----------------------------------------------------------------------------------------------------
-#**Business Model for sattvik Bhojan:**
-    - Business Type: Small Home-Based Cloud Kitchen
-    - Premises: Own House
-    - Scale: Small / Initial Stage
-    - Seating Area: No
-    - Customer Pickup: Yes
-    - Self-Delivery: Yes
-    - Third-Party Food Delivery Platforms: No (Initially)
+-------------------------------------------------------------------------------------------------
+*Business Model for sattvik Bhojan:*
+        - Business Type: Small Home-Based Cloud Kitchen
+        - Premises: Own House
+        - Scale: Small / Initial Stage
+        - Seating Area: No
+        - Customer Pickup: Yes
+        - Self-Delivery: Yes
+        - Third-Party Food Delivery Platforms: No (Initially)
 ------------------------------------------------------------------------------------------------
-##_Current Status of Sattvik Bhojan_
+_Current Status of Sattvik Bhojan_
 - FSSAI: Required
 - Municipal / Trade Licence: To be checked with the local authority
 - GST: Not being considered initially; applicability to be checked based on business requirements
