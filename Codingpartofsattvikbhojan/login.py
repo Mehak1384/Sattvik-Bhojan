@@ -47,12 +47,14 @@ def login():
         )
 
         if password_is_correct:
-            print("Login successful!")
-            print(f"Welcome, {stored_username}!")
-            print(f"Role: {role}")
+                print("Login successful!")
+                print(f"Welcome, {stored_username}!")
+                print(f"Role: {role}")
+
+                return role
 
         else:
-            print("Incorrect password.")
+         print("Incorrect password.")
 
         cursor.close()
 
