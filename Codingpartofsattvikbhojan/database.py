@@ -5,7 +5,6 @@ import bcrypt
 def create_connection_psql():
     connection=None
     try:
-        connection=None
         connection=psycopg2.connect(
             host="127.0.0.1",
             port=5432,
