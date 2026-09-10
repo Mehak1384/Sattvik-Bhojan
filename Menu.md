@@ -6,5 +6,7 @@
 | 2 | Kadhi Pakora | 40 |
 | 3 | Rice | 40 |
 | 4 | Dal Makhni | 50 |
-| 5 | Rajma / Chole | 40 |
+| 5 | Rajma / Chana | 40 |
+|6| Mix veg |40|
+
 Note: Menu Can be change after the team discussion.
