@@ -67,5 +67,4 @@ def login():
             print("Database connection closed.")
 
 
-login()
 

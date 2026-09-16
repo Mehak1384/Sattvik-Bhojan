@@ -71,6 +71,7 @@ def create_connection_psql():
             connection.close()
             print("Database connection closed.")
 
-conn = create_connection_psql()
+if __name__ == "__main__":
+    create_connection_psql()
     
     
