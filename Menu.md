@@ -1,18 +1,15 @@
 # *__Menu of Sattvik Bhojan:__*
-## __Breakfast:__
-1. Plain Parantha
-2. Aloo Parantha
-3. Paneer Parantha
-4. Gobbi Parantha
-5. Mix Parantha
-----------------------------------------------------------------------------
-## __Lunch and Dinner:__
-1. Rajma/Chole/Kadhi+ Chalwal
-2. Stand thali( Rajma/Chole/Kadhi/Dal+Sabji+4 roti+rice)
----------------------------------------------------------------------------
-Extra Items:
-1. Packet curd 
-2. Lassi 
-3. Dudh 
+
+| No. | Item | Price (₹) |
+|----:|------|----------:|
+| 1 | Chapati | 5 |
+| 2 | Rice | 35 |
+| 3 | Kadhi Pakora | 40 |
+| 4 | Rajma / Chana | 40 |
+| 5 | Mix Veg | 40 |
+| 6 | Dal Variety (Dal Tadka, Dal Fry, Yellow Dal, Dal Palak, Dal Chana) | 40 |
+| 7 | Dal Makhni | 50 |
+| 8 | Paneer Bhurji | 80 |
+| 9 | Kadhai Paneer | 80 |
 
 Note: Menu Can be change after the team discussion.
